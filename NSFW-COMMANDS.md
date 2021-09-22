@@ -1,3 +1,5 @@
+### v7.4.0
+
 Command | Description | Usage
 ------------ | ------------- | -------------
 `*4knsfw` | NSFW Command | `*4knsfw`
@@ -17,3 +19,11 @@ Command | Description | Usage
 `*nsfw` | Toggles the NSFW commands on or off | `*nsfw toggle [on/off]`
 
 All commands pull images from subredddits
+
+
+
+### v7.4.2
+
+
+# All NSFW commands now are under one command.
+- ```Usage: *nsfw```
